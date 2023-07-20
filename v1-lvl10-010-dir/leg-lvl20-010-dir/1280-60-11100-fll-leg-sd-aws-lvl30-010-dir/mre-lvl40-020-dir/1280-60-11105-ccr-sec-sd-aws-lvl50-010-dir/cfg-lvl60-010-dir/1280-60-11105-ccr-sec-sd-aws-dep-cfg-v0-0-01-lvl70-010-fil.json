@@ -1,0 +1,19 @@
+{
+  "resourceMetadataKEY": "yes",
+  "accessKeyNameKEY": "access-key-name",
+  "resourceTypeKEY": "other-type-of-secret",
+  "resourceStringTypeKEY": "key-value",
+  "secretTextKEY": "XXXX",
+  "resourceDescriptionKEY": "This secret includes credentials of the access key for the crypto-bing-1280-60-usr-sd IAM User.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "SugarCookieloafTrollBOT",
+    "ifqridKEY": "1280-60-11105-ccr-sec-sd-aws",
+    "resourceTypeKEY": "secret",
+    "blockNumberKEY": "1280-60",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+}
