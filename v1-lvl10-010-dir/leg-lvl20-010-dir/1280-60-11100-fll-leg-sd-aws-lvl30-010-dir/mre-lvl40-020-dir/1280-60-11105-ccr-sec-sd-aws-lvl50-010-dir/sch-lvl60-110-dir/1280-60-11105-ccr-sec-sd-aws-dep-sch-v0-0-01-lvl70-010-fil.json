@@ -1,0 +1,8 @@
+{
+  "resourceMetadataKEY": "yes",
+  "secretTextKEY": "Access key for the crypto-bing-1280-60-usr-sd iam user",
+  "resourceTagKEY": {
+    "ticketIDKEY": "ticket-number",
+    "deploymentDateKEY": "current-date"
+  }
+}
