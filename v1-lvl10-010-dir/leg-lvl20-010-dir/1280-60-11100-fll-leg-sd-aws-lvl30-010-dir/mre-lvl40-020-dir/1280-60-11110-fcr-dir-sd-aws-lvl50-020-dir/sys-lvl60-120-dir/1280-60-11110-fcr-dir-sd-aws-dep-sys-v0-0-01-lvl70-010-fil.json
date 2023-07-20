@@ -1,0 +1,10 @@
+{
+  "resourceMetadataKEY": "yes",
+  "operatingSystemNameKEY": "galactic",
+  "operatingSystemVersionNumberKEY": "20.04",
+  "k8sClusterNameKEY": "eks-cluster-one-sd2",
+  "k8sClusterVersionNumberKEY": "1.26",
+  "botNameKEY": "botname",
+  "botVersionNumberKEY": "v0-0-04",
+  "baseImageIDKEY": "image-id"
+}
