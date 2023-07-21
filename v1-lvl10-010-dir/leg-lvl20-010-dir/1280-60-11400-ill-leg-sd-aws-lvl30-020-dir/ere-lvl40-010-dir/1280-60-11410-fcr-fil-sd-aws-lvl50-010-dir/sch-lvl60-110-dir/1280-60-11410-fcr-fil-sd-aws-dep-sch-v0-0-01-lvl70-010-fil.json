@@ -1,0 +1,19 @@
+{
+  "resourceMetadataKEY": "yes",
+  "regionNameKEY": "eu-west-2",
+  "certificateAuthorityDataKEY": "certificate-data",
+  "clusterServerEndpointKEY": "endpoint",
+  "clusterARNNameKEY": "arn",
+  "contextClusterARNNameKEY": "arn",
+  "clusterNameSpaceKEY": "namespace",
+  "contextUserARNNameKEY": "arn",
+  "contextARNNameKEY": "arn",
+  "CurrentContextARNNameKEY": "arn",
+  "UserARNNameKEY": "arn",
+  "apiVersionIDKEY": "version-id",
+  "regionIDKEY": "region-id",
+  "serviceTypeKEY": "service-type",
+  "clisterNameKEY": "cluster-name",
+  "environmentOptionKEY": "environment-option",
+  "provideClusterInfoKEY": "true/false"
+}
