@@ -1,3 +1,14 @@
 {
-  "resourceMetadataKEY": "no",
-}
+  "resourceMetadataKEY": "yes",
+  "clusterServerEndpointKEY": "https://E1030BA23F7013F09F003CB8C2005CD4.gr7.eu-west-2.eks.amazonaws.com",
+  "clusterARNNameKEY": "arn:aws:eks:eu-west-2:635602896676:cluster/eks-cluster-one-sd2",
+  "contextClusterARNNameKEY": "arn:aws:eks:eu-west-2:635602896676:cluster/eks-cluster-one-sd2",
+  "contextUserARNNameKEY": "arn:aws:eks:eu-west-2:635602896676:cluster/eks-cluster-one-sd2",
+  "contextARNNameKEY": "arn:aws:eks:eu-west-2:635602896676:cluster/eks-cluster-one-sd2",
+  "CurrentContextARNNameKEY": "arn:aws:eks:eu-west-2:635602896676:cluster/eks-cluster-one-sd2",
+  "UserARNNameKEY": "arn:aws:eks:eu-west-2:635602896676:cluster/eks-cluster-one-sd2",
+  "apiVersionIDKEY": "client.authentication.k8s.io/v1alpha1",
+  "clusterNameKEY": "eks-cluster-one-sd2",
+  "enironmentOptionKEY": "null",
+  "provideClusterInfoKEY": "false"
+} 
